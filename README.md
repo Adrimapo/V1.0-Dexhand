@@ -56,39 +56,39 @@ The original design was tested for high speed printing using a 0.6mm diameter no
 
 ## Material list
 
-[ ] 16 slim micro-servos
+- [ ] 16 slim micro-servos
 
 * ES3301 (approx $6.6)
 * ES3302 (approx $9.2)
 * ES3351  (approx $8.5)
 * ES3352 (approx $12)
 
-[] 2 standard micro servos for wrist flexion and extension.
+- [ ] 2 standard micro servos for wrist flexion and extension.
 
 * [Feetech SCS2332](https://feetechrc.com/product-name_55300.html)
 
-[] 1 standard servo needed for axial wrist rotation (optional)
+- [ ] 1 standard servo needed for axial wrist rotation (optional)
 Feetech [SCS15](https://feetechrc.com/6v-15kg-digital-robot-steering-gear.html) or any servo that fits inside the envelope 40*20*40.5mm.
 
-[ ] [2mm diameter steel pins](https://amzn.to/3VYrnfh)
+- [ ] [2mm diameter steel pins](https://amzn.to/3VYrnfh)
 
-[ ] [M2 screw and washer kits](https://amzn.to/3sf4NkE)
+- [ ] [M2 screw and washer kits](https://amzn.to/3sf4NkE)
 
-[ ] [M2 brass threaded inserts M2 * 4mm long * 3.5mm](https://amzn.to/3yYl1lY)
+- [ ] [M2 brass threaded inserts M2 * 4mm long * 3.5mm](https://amzn.to/3yYl1lY)
 
-[ ] [Kite or fishing line for finger tendons](https://amzn.to/3DgjNoF)
+- [ ] [Kite or fishing line for finger tendons](https://amzn.to/3DgjNoF)
 
-[ ] [0.8mm kiteline](https://amzn.to/3GMKQJL) for the finger ligaments and wrist tendons.
+- [ ] [0.8mm kiteline](https://amzn.to/3GMKQJL) for the finger ligaments and wrist tendons.
 
-[ ] [Ball Bearings 6*10*3](https://amzn.to/3Dj7cBn) - Need 50 for a hand, packs of 10 available which are enough for the sample finger.
+- [ ] [Ball Bearings 6*10*3](https://amzn.to/3Dj7cBn) - Need 50 for a hand, packs of 10 available which are enough for the sample finger.
 
-[ ] [Ball Bearings 2*6*3 or 2*6*2.5](https://amzn.to/3yYlTHg) - Need 6 for the wrist
+- [ ] [Ball Bearings 2*6*3 or 2*6*2.5](https://amzn.to/3yYlTHg) - Need 6 for the wrist
 
-[ ] [Ball Bearings 15*21*4](https://amzn.to/3TsMSTO) - Need 4 for the wrist
+- [ ] [Ball Bearings 15*21*4](https://amzn.to/3TsMSTO) - Need 4 for the wrist
 
-[ ] [Ball Bearings 3*8*4](https://amzn.to/3VyE28O) - Need 6 for the wrist
+- [ ] [Ball Bearings 3*8*4](https://amzn.to/3VyE28O) - Need 6 for the wrist
 
-[ ] [M3 * 70mm caphead](https://amzn.to/3HM0Rjx) bolt (grade 12.9 ideally)
+- [ ] [M3 * 70mm caphead](https://amzn.to/3HM0Rjx) bolt (grade 12.9 ideally)
 Need 2 (1 is cut down to 60mm)
 
 ---
