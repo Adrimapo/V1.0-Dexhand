@@ -33,7 +33,7 @@ From my final grade project, [Programming drones with imitation learning and neu
 * [Cad model](https://cad.onshape.com/documents/16c809d35214bd31c5b0324f/w/56b2fb82f7bdce505771766f/e/df78e66574dc7dbd45e4826c?renderMode=0&uiState=6358f3f91587a72417a28b1c) -> Model of the full arm.
 
 
-GitHub repos:
+**GitHub repos:**
 
   * [Models](https://github.com/TheRobotStudio/V1.0-Dexhand) -> All the STL files are here.
   
