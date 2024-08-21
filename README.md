@@ -26,23 +26,22 @@ From my final grade project, [Programming drones with imitation learning and neu
 
 ## Original links
 
-* [Main page](https://www.dexhand.org/)
+* [Main page](https://www.dexhand.org/) -> Page where all the original project allocates.
   
-* [Assembly playlist](https://www.youtube.com/playlist?list=PLy7gxZH9jzfQB2YJvAl5Y0FLJvxzb_83F)
+* [Assembly playlist](https://www.youtube.com/playlist?list=PLy7gxZH9jzfQB2YJvAl5Y0FLJvxzb_83F) -> This is Rob Knight’s series of assembly videos.
   
-* [Cad model 1](https://cad.onshape.com/documents/16c809d35214bd31c5b0324f/w/56b2fb82f7bdce505771766f/e/df78e66574dc7dbd45e4826c?renderMode=0&uiState=6358f3f91587a72417a28b1c)
-  
-* [Cad model 2](https://cad.onshape.com/documents/16c809d35214bd31c5b0324f/w/56b2fb82f7bdce505771766f/e/df78e66574dc7dbd45e4826c?renderMode=0&uiState=634d296bdb58c2464af7aa1e)
+* [Cad model](https://cad.onshape.com/documents/16c809d35214bd31c5b0324f/w/56b2fb82f7bdce505771766f/e/df78e66574dc7dbd45e4826c?renderMode=0&uiState=6358f3f91587a72417a28b1c) -> Model of the full arm.
+
 
 GitHub repos:
 
-* [Models](https://github.com/TheRobotStudio/V1.0-Dexhand)
+  * [Models](https://github.com/TheRobotStudio/V1.0-Dexhand) -> All the STL files are here.
   
-* [Mechanical build](https://github.com/iotdesignshop/dexhand-mechanical-build)
+* [Mechanical build](https://github.com/iotdesignshop/dexhand-mechanical-build) ->  Instructions, and a build Wiki from IoT design.
   
-* [Software](https://github.com/iotdesignshop/dexhand-ble)
+* [Arduino firmware](https://github.com/iotdesignshop/dexhand-ble) -> Firmware for the Arduino Nano RP2040.
   
-* [ROS2 implementation](https://github.com/iotdesignshop/dexhand_ros2_meta)
+* [ROS2 implementation](https://github.com/iotdesignshop/dexhand_ros2_meta) -> ROS 2 drivers and demonstration packages.
 
 ---
 ---
